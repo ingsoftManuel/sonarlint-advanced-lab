@@ -91,15 +91,6 @@
       <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/services/ToysServiceImpl.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/view/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/test-classes/recourse/TestToyStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sonarlint-advanced-lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/app/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/app/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
@@ -215,7 +206,7 @@
     "Application.App.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hp pavilion gaming/Documents/SeguimientoPruebas-main/sonarlint-advanced-lab/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
