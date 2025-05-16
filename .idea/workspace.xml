@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="372824a3-682f-40f4-a9dd-a97f1a803fa6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BD.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CREATE VIEW Proyectos.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Caso de Aplicación_ Plataforma de Alquiler de Vehículos _Veloce Rentals_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Cloud/CloudStorage.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLEnemy.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLEngine.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLGame.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLInput.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLLightmass.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLSystemSettings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Config/OLUI.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../My Games/Outlast/OLGame/Logs/Launch.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nuevo Modelo.bpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nuevo Modelo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PARTE 2 (2).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PARTE 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRINCIPIOS AGILES.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRINCIPIOS_AGILES 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PresentaciónF.I.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Primeros cuatro laboratorios.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion 2/TALLER PROGRAMACION - copia.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/dtos/ToysDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/mapper/ToysMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/model/Toys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/services/ToysService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/services/ToysServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/threads/Upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/main/java/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/src/test/java/recourse/TestToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/dtos/ToysDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/mapper/ToysMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/model/Toys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/services/ToysService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/services/ToysServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/classes/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeguimientoPruebas-main/co.edu.cue.segumientoClase/target/test-classes/recourse/TestToyStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sockets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/dtos/ToysDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/mapper/ToysMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/model/Toys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/services/ToysService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/services/ToysServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/test/java/recourse/TestToyStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/threads/LoadSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/out/production/untitled/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/dtos/ToysDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/mapper/ToysMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/model/Toys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/services/ToysService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/services/ToysServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/test/java/recourse/TestToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/threads/LoadSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.cue.edu.Seguimiento-Shop/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/dtos/ToysDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/mapper/ToysMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/model/Toys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/services/ToysService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/services/ToysServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/main/java/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/src/test/java/recourse/TestToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/dtos/ToysDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/mapper/ToysMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/model/Toys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/services/ToysService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/services/ToysServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/classes/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co.edu.cue.segumientoClase/target/test-classes/recourse/TestToyStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonarlint-advanced-lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/app/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/app/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cue/edu/co/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TALLER PROGRAMACION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller_Regresion_Correlacion[2].docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadora paradigma declarativo/Declarativo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../diagrama b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../diagrama.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecuaciones.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../evidencias git.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ideaIU-2024.1 (1).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../informacion empresarial.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/jugueteria-2-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/config/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/dtos/CreateUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/dtos/ToysDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/exceptions/SaleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/mapper/ToysMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/SaleDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/Toys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/SaleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/ToyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/impl/SaleRepositoryJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/impl/ToyRepositoryJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/repositories/impl/UserRepositoryJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/SaleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/ToysService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/impl/SaleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/impl/ToysServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/singleton/ServicesSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/threads/LoadSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/main/java/cue/edu/co/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/src/test/java/cue/edu/co/TestToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/config/DatabaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/dtos/CreateUserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/dtos/ToysDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/exceptions/SaleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/mapper/ToysMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/Sale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/SaleDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/Toys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/SaleRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/ToyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/impl/SaleRepositoryJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/impl/ToyRepositoryJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/repositories/impl/UserRepositoryJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/services/SaleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/services/ToysService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/services/impl/SaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/services/impl/ToysServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/singleton/ServicesSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/threads/LoadSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jugueteria-2-main/co.edu.cue.shop-seg/target/classes/cue/edu/co/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../numeral 4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica_git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecto final de estadistica(2).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecto final de estadistica.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyectoscue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tiempos de los carros.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trabajo de bases de datos.mwb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2xBr67oSJ0fROqlsIh2PjYFBSWb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/hp pavilion gaming/Documents/SeguimientoPruebas-main/sonarlint-advanced-lab/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372824a3-682f-40f4-a9dd-a97f1a803fa6" name="Changes" comment="" />
+      <created>1747422140812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747422140812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
